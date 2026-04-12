@@ -52,7 +52,7 @@ I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years o
 
 ## 🚀 Featured Projects
 
-### [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) — Multi-tenant B2B SaaS Task Manager
+### [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) Multi-tenant B2B SaaS Task Manager
 > A full-featured team collaboration platform with hard-scoped tenant isolation and real-time updates.
 
 - 🏢 **Multi-tenancy** with RBAC middleware (owner / admin / member roles)
@@ -63,7 +63,7 @@ I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years o
 
 ---
 
-### [PromptStudio](https://ai-humanizer-prompt-studio-production.up.railway.app/) — AI Tools Platform
+### [PromptStudio](https://ai-humanizer-prompt-studio-production.up.railway.app/) AI Tools Platform
 > Freemium SaaS with an AI text humanizer and image-to-prompt generator.
 
 - 💡 **AI text humanizer** + **image-to-prompt** generator
@@ -71,7 +71,7 @@ I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years o
 - ⚙️ **Stack:** React · Vite · Tailwind · Node.js · Express · Groq · Railway
 ---
 
-### [B2B Lead Generator](https://github.com/FratelloDotExe) — Moroccan Market Scraper
+### [B2B Lead Generator](https://github.com/FratelloDotExe) Moroccan Market Scraper
 > OpenStreetMap-based scraper targeting hospitality businesses in Morocco without a web presence.
 
 - 🗺️ Overpass API (free, no API key) — found 103 hotels in Casablanca, ~80 without websites
