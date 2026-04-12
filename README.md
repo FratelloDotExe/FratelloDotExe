@@ -15,9 +15,9 @@
 
 ---
 
-I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years of professional experience building scalable multi-tenant SaaS applications. I specialise in clean architecture, RESTful APIs, real-time systems, and reactive interfaces — from database design to polished frontend.
+I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years of professional experience building scalable multi-tenant SaaS applications. I specialise in clean architecture, RESTful APIs, real-time systems, and reactive interfaces from database design to polished frontend.
 
-- 🏗️ **Currently building:** [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) — a multi-tenant B2B SaaS task management platform
+- 🏗️ **Currently building:** [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) a multi-tenant B2B SaaS task management platform
 - 🌱 **Currently learning:** TDD, Laravel Octane, CI/CD with GitHub Actions
 - 💼 **Open to:** Laravel / Backend developer roles in Morocco & remote opportunities
 - 🎓 **CS degree** from Ibn Zohr University, Agadir (2021)
@@ -74,7 +74,7 @@ I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years o
 ### [B2B Lead Generator](https://github.com/FratelloDotExe) Moroccan Market Scraper
 > OpenStreetMap-based scraper targeting hospitality businesses in Morocco without a web presence.
 
-- 🗺️ Overpass API (free, no API key) — found 103 hotels in Casablanca, ~80 without websites
+- 🗺️ Overpass API (free, no API key) found 103 hotels in Casablanca, ~80 without websites
 - 📊 Outreach tracking dashboard in Laravel Blade + Tailwind
 - ⚙️ **Stack:** Laravel 10 · Overpass API · PostgreSQL
 
