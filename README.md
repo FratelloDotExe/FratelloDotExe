@@ -68,7 +68,7 @@ I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years o
 
 - 💡 **AI text humanizer** + **image-to-prompt** generator
 - 💳 Stripe subscriptions + AdSense monetization
-- ⚙️ **Stack:** React · Vite · Tailwind · Node.js · Express · Groq · Railway
+- ⚙️ **Stack:** React · Vite · Tailwind · Node.js · Express · Ai API · Railway
 ---
 
 ### [B2B Lead Generator](https://github.com/FratelloDotExe) Moroccan Market Scraper
