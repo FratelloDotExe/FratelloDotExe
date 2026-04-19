@@ -59,7 +59,7 @@ I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years o
 - 📋 **Real-time Kanban board** via Laravel Reverb presence channels + Vue.js drag-and-drop
 - 💳 **Stripe** Checkout, Customer Portal & Webhooks for tiered subscriptions
 - 🤖 **AI chat assistant** powered by Groq (streaming via SSE, auth-gated with Sanctum)
-- ⚙️ **Stack:** Laravel 10 · Filament 3 · Livewire 3 · Vue.js 3 · Reverb · Stripe · PostgreSQL · Redis
+- ⚙️ **Stack:** Laravel · Filament · Livewire · Vue.js · Reverb · Stripe · PostgreSQL · Redis
 
 ---
 
