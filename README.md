@@ -63,7 +63,7 @@ I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years o
 
 ---
 
-### [PromptStudio](https://ai-humanizer-prompt-studio-production.up.railway.app/) AI Tools Platform
+### [PromptStudio](https://ai-humanizer-promptstudio.vercel.app/) AI Tools Platform
 > Freemium SaaS with an AI text humanizer and image-to-prompt generator.
 
 - 💡 **AI text humanizer** + **image-to-prompt** generator
