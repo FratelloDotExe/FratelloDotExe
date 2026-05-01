@@ -15,7 +15,7 @@
 
 ---
 
-I'm a **Laravel Backend Developer** based in **Agadir, Morocco** with 2+ years of professional experience building scalable multi-tenant SaaS applications. I specialise in clean architecture, RESTful APIs, real-time systems, and reactive interfaces from database design to polished frontend.
+I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of professional experience building scalable multi-tenant SaaS applications. I specialise in clean architecture, RESTful APIs, real-time systems and reactive interfaces from database design to polished frontend.
 
 - 🏗️ **Currently building:** [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) a multi-tenant B2B SaaS task management platform
 - 🌱 **Currently learning:** TDD, Laravel Octane, CI/CD with GitHub Actions
