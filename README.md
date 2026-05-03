@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Abderrazak Mazouz</h1>
+<h1 align="center">Hi there I'm Abderrazak Mazouz</h1>
 
 <p align="center">
   <a href="https://abderrazakmazouz.vercel.app" target="_blank">
@@ -17,11 +17,11 @@
 
 I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of professional experience building scalable multi-tenant SaaS applications. I specialise in clean architecture, RESTful APIs, real-time systems and reactive interfaces from database design to polished frontend.
 
-- 🏗️ **Currently building:** [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) a multi-tenant B2B SaaS task management platform
-- 🌱 **Currently learning:** TDD, Laravel Octane, CI/CD with GitHub Actions
-- 💼 **Open to:** Laravel / Backend developer roles in Morocco & remote opportunities
-- 🎓 **CS degree** from Ibn Zohr University, Agadir (2021)
-- 📬 **Reach me at:** abderrazakmazouz96@gmail.com
+- **Currently building:** [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) a multi-tenant B2B SaaS task management platform
+- **Currently learning:** TDD, Laravel Octane, CI/CD with GitHub Actions
+- **Open to:** Laravel / Backend developer roles in Morocco & remote opportunities
+- **CS degree** from Ibn Zohr University, Agadir (2021)
+- **Reach me at:** abderrazakmazouz96@gmail.com
 
 ---
 
@@ -50,7 +50,7 @@ I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of profession
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) Multi-tenant B2B SaaS Task Manager
 > A full-featured team collaboration platform with hard-scoped tenant isolation and real-time updates.
