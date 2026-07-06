@@ -25,7 +25,7 @@ I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of profession
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -55,32 +55,32 @@ I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of profession
 ### [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) Multi-tenant B2B SaaS Task Manager
 > A full-featured team collaboration platform with hard-scoped tenant isolation and real-time updates.
 
-- 🏢 **Multi-tenancy** with RBAC middleware (owner / admin / member roles)
-- 📋 **Real-time Kanban board** via Laravel Reverb presence channels + Vue.js drag-and-drop
-- 💳 **Stripe** Checkout, Customer Portal & Webhooks for tiered subscriptions
-- 🤖 **AI chat assistant** powered by Groq (streaming via SSE, auth-gated with Sanctum)
-- ⚙️ **Stack:** Laravel · Filament · Livewire · Vue.js · Reverb · Stripe · PostgreSQL · Redis
+- **Multi-tenancy** with RBAC middleware (owner / admin / member roles)
+- **Real-time Kanban board** via Laravel Reverb presence channels + Vue.js drag-and-drop
+- **Stripe** Checkout, Customer Portal & Webhooks for tiered subscriptions
+- **AI chat assistant** powered by Groq (streaming via SSE, auth-gated with Sanctum)
+- **Stack:** Laravel · Filament · Livewire · Vue.js · Reverb · Stripe · PostgreSQL · Redis
 
 ---
 
 ### [PromptStudio](https://ai-humanizer-promptstudio.vercel.app/) AI Tools Platform
 > Freemium SaaS with an AI text humanizer and image-to-prompt generator.
 
-- 💡 **AI text humanizer** + **image-to-prompt** generator
-- 💳 Stripe subscriptions + AdSense monetization
-- ⚙️ **Stack:** React · Vite · Tailwind · Node.js · Express · Ai API · Railway
+- **AI text humanizer** + **image-to-prompt** generator
+- Stripe subscriptions + AdSense monetization
+- **Stack:** React · Vite · Tailwind · Node.js · Express · Ai API · Railway
 ---
 
 ### [B2B Lead Generator](https://github.com/FratelloDotExe) Moroccan Market Scraper
 > OpenStreetMap-based scraper targeting hospitality businesses in Morocco without a web presence.
 
-- 🗺️ Overpass API (free, no API key) found 103 hotels in Casablanca, ~80 without websites
-- 📊 Outreach tracking dashboard in Laravel Blade + Tailwind
-- ⚙️ **Stack:** Laravel 10 · Overpass API · PostgreSQL
+- Overpass API (free, no API key) found 103 hotels in Casablanca, ~80 without websites
+- Outreach tracking dashboard in Laravel Blade + Tailwind
+- **Stack:** Laravel 10 · Overpass API · PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FratelloDotExe&theme=dark&hide_border=true" height="160" />
@@ -89,9 +89,9 @@ I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of profession
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 🌐 **Portfolio:** [abderrazakmazouz.vercel.app](https://abderrazakmazouz.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/abderrazak-mazouz](https://www.linkedin.com/in/abderrazakmazouz/)
-- 📧 **Email:** abderrazakmazouz96@gmail.com
-- 📍 **Location:** Agadir, Morocco · Open to Relocate & Remote
+- **Portfolio:** [abderrazakmazouz.vercel.app](https://abderrazakmazouz.vercel.app)
+- **LinkedIn:** [linkedin.com/in/abderrazak-mazouz](https://www.linkedin.com/in/abderrazakmazouz/)
+- **Email:** abderrazakmazouz96@gmail.com
+- **Location:** Agadir, Morocco · Open to Relocate & Remote
