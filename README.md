@@ -71,14 +71,6 @@ I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of profession
 - **Stack:** React · Vite · Tailwind · Node.js · Express · Ai API · Railway
 ---
 
-### [B2B Lead Generator](https://github.com/FratelloDotExe) Moroccan Market Scraper
-> OpenStreetMap-based scraper targeting hospitality businesses in Morocco without a web presence.
-
-- Overpass API (free, no API key) found 103 hotels in Casablanca, ~80 without websites
-- Outreach tracking dashboard in Laravel Blade + Tailwind
-- **Stack:** Laravel 10 · Overpass API · PostgreSQL
-
----
 
 ## GitHub Stats
 
