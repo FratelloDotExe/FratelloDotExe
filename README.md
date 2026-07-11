@@ -20,7 +20,7 @@ I'm a **Web Developer** based in **Agadir, Morocco** with 2+ years of profession
 - **Currently building:** [TaskFlow](https://taskflow-main-31t1ft.free.laravel.cloud/) a multi-tenant B2B SaaS task management platform
 - **Currently learning:** TDD, Laravel Octane, CI/CD with GitHub Actions
 - **Open to:** Laravel / Backend developer roles in Morocco & remote opportunities
-- **CS degree** from Ibn Zohr University, Agadir (2021)
+- **CS degree** from Ibn Zohr University, Ait Melloul (2021)
 - **Reach me at:** abderrazakmazouz96@gmail.com
 
 ---
