@@ -7,11 +7,7 @@
   <a href="https://linkedin.com/in/abderrazak-mazouz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abderrazak%20Mazouz-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <!-- <a href="https://twitter.com/FratelloDotExe" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@FratelloDotExe-1DA1F2?style=flat-square&logo=twitter" />
-  </a> -->
-  <img src="https://komarev.com/ghpvc/?username=FratelloDotExe&style=flat-square&color=grey" />
-</p>
+  </p>
 
 ---
 
